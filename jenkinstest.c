@@ -4,6 +4,6 @@
 
 int main(void)
 {
-	printf("Hello Cruel Jenkins world!!!\n\r");
+	printf("Hello Cruel, new,  Jenkins world!!!\n\r");
 	return 0;
 }
